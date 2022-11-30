@@ -1,0 +1,3 @@
+Options All -Indexes
+ErrorDocument 403 "http://localhost/KA19A1/index.php/E403" 
+#Untuk direct ke page yang ingin direct
